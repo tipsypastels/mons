@@ -1,38 +1,71 @@
 .App {
-  text-align: center;
+  display: grid;
+  grid-template-columns: 50% 50%;
+  overflow-x: hidden;
+  height: 100%;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+section {
+  padding: 1rem;
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+.Preview {
+  background-color: rgba(0, 0, 0, 0.05);
+  overflow-x: hidden;
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
+.Preview-title {
+  color: yellowgreen;
+  margin-bottom: 0;
+}
+
+.fields-column {
   display: flex;
   flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
 }
 
-.App-link {
-  color: #61dafb;
+.fields-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.fields-half {
+  width: 50%;
 }
+
+.wide-input {
+  width: 100%;
+  display: block;
+}
+
+.text-button {
+  background-color: transparent;
+  border: none;
+  padding: 0;
+  color: rgb(0, 100, 200);
+  cursor: pointer;
+  text-decoration: underline;
+}
+
+.button-row {
+  padding: 0.5rem 0;
+  display: flex;
+}
+
+.button-row > *:not(:last-child) {
+  margin-right: 0.25rem;
+}
+
+.submit {
+    color: white;
+    background-image: linear-gradient(to bottom right, blue, purple);
+
+    font-weight: bold;
+    font-size: 1.3rem;
+    text-decoration: none;
+
+    padding: 0.5rem;
+    border-radius: 6px;
+
+    cursor: pointer;
+  }
