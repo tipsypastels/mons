@@ -23,10 +23,18 @@ export abstract class Shape<T extends {}> {
   
   get first() {
     if (Array.isArray(this.memo)) {
-      return [this.memo[0]];
+      if (this.memo.length) {
+        return [this.memo[0]];
+      }
+
+      return undefined;
     } else {
       const firstEntry = Object.entries(this.memo)[0] as [keyof T, T[keyof T]];
-      return Object.fromEntries([firstEntry]);
+      if (firstEntry) {
+        return Object.fromEntries([firstEntry]);
+      } 
+
+      return undefined;
     }
   }
 }
