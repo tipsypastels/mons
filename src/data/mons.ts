@@ -3,7 +3,7 @@ import { RegionalDexPositions } from './dexPos';
 
 export type Mon = {
   abilities: string[];
-  baseStats: unknown;
+  baseStats: any;
   baseExp: number;
   baseForm?: string;
   catchRate: number;
@@ -11,10 +11,10 @@ export type Mon = {
   dexEntry: string;
   name: string;
   eggGroups: string[];
-  evolutions: unknown;
+  evolutions: any;
   evYield: number;
   formName?: string;
-  genderRatio: unknown;
+  genderRatio: any;
   generation: number;
   growthRate: number;
   happiness: number;
@@ -23,7 +23,7 @@ export type Mon = {
   hiddenAbility?: string;
   image?: string;
   kind: string;
-  moves: unknown;
+  moves: any;
   number: number;
   regionalDexPositions?: RegionalDexPositions;
   slug: string;

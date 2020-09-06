@@ -41,6 +41,10 @@ const FIELDS = {
     displayName: 'Evolutions',
     defaultOn: false,
   },
+  evolvesFrom: {
+    displayName: 'EvolvesFrom',
+    defaultOn: false,
+  },
   evYield: {
     displayName: 'EV Yield',
     defaultOn: false,

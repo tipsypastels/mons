@@ -334,7 +334,7 @@ function filter({
     }
 
     const monWithImg = applyImage(image, mon);
-    
+
     const transformedMon = applyFieldsAndCasing(
       casing, 
       fieldNames, 
@@ -357,7 +357,7 @@ function applyFieldsAndCasing(
   let key: keyof Mon;
 
   for (key in mon) {
-    if (fields.has(key as FieldName)) {
+    if (fields.has(key as FieldName) || key === 'image') {
       output[func(key) as keyof Mon] = mon[key];
     }
   }

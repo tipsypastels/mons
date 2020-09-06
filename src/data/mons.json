@@ -132,6 +132,7 @@
         }
       ]
     ],
+    "evolvesFrom": "bulbasaur",
     "genderRatio": {
       "female": 0.125,
       "male": 0.875
@@ -211,6 +212,7 @@
       "specialAttack": 2,
       "specialDefense": 1
     },
+    "evolvesFrom": "ivysaur",
     "genderRatio": {
       "female": 0.125,
       "male": 0.875
@@ -479,6 +481,7 @@
         }
       ]
     ],
+    "evolvesFrom": "charmander",
     "genderRatio": {
       "female": 0.125,
       "male": 0.875
@@ -553,6 +556,7 @@
       "specialAttack": 3,
       "specialDefense": 0
     },
+    "evolvesFrom": "charmeleon",
     "genderRatio": {
       "female": 0.125,
       "male": 0.875
@@ -899,6 +903,7 @@
         }
       ]
     ],
+    "evolvesFrom": "squirtle",
     "genderRatio": {
       "female": 0.125,
       "male": 0.875
@@ -974,6 +979,7 @@
       "specialAttack": 0,
       "specialDefense": 3
     },
+    "evolvesFrom": "wartortle",
     "genderRatio": {
       "female": 0.125,
       "male": 0.875
@@ -1213,6 +1219,7 @@
         }
       ]
     ],
+    "evolvesFrom": "caterpie",
     "genderRatio": {
       "female": 0.5,
       "male": 0.5
@@ -1275,6 +1282,7 @@
       "specialAttack": 2,
       "specialDefense": 1
     },
+    "evolvesFrom": "metapod",
     "genderRatio": {
       "female": 0.5,
       "male": 0.5
@@ -1441,6 +1449,7 @@
         }
       ]
     ],
+    "evolvesFrom": "weedle",
     "genderRatio": {
       "female": 0.5,
       "male": 0.5
@@ -1500,6 +1509,7 @@
       "specialAttack": 0,
       "specialDefense": 1
     },
+    "evolvesFrom": "kakuna",
     "genderRatio": {
       "female": 0.5,
       "male": 0.5
@@ -1747,6 +1757,7 @@
         }
       ]
     ],
+    "evolvesFrom": "pidgey",
     "genderRatio": {
       "female": 0.5,
       "male": 0.5
@@ -1824,6 +1835,7 @@
       "specialAttack": 0,
       "specialDefense": 0
     },
+    "evolvesFrom": "pidgeotto",
     "genderRatio": {
       "female": 0.5,
       "male": 0.5
@@ -2180,6 +2192,7 @@
       "specialAttack": 0,
       "specialDefense": 0
     },
+    "evolvesFrom": "rattata-alola",
     "genderRatio": {
       "female": 0.5,
       "male": 0.5
@@ -2436,6 +2449,7 @@
       "specialAttack": 0,
       "specialDefense": 0
     },
+    "evolvesFrom": "spearow",
     "genderRatio": {
       "female": 0.5,
       "male": 0.5
@@ -2621,6 +2635,7 @@
       "specialAttack": 0,
       "specialDefense": 0
     },
+    "evolvesFrom": "ekans",
     "genderRatio": {
       "female": 0.5,
       "male": 0.5
@@ -2717,6 +2732,7 @@
         }
       ]
     ],
+    "evolvesFrom": "pichu-spikyeared",
     "genderRatio": {
       "female": 0.5,
       "male": 0.5
@@ -2805,6 +2821,7 @@
       "specialAttack": 0,
       "specialDefense": 0
     },
+    "evolvesFrom": "pikachu",
     "genderRatio": {
       "female": 0.5,
       "male": 0.5
@@ -3188,6 +3205,7 @@
       "specialAttack": 0,
       "specialDefense": 0
     },
+    "evolvesFrom": "sandshrew-alola",
     "genderRatio": {
       "female": 0.5,
       "male": 0.5
@@ -3467,6 +3485,7 @@
         }
       ]
     ],
+    "evolvesFrom": "nidoran-female",
     "genderRatio": {
       "female": 1
     },
@@ -3540,6 +3559,7 @@
       "specialAttack": 0,
       "specialDefense": 0
     },
+    "evolvesFrom": "nidorina",
     "genderRatio": {
       "female": 1
     },
@@ -3717,6 +3737,7 @@
         }
       ]
     ],
+    "evolvesFrom": "nidoran",
     "genderRatio": {
       "male": 1
     },
@@ -3790,6 +3811,7 @@
       "specialAttack": 0,
       "specialDefense": 0
     },
+    "evolvesFrom": "nidorino",
     "genderRatio": {
       "male": 1
     },
@@ -3868,6 +3890,7 @@
         }
       ]
     ],
+    "evolvesFrom": "cleffa",
     "genderRatio": {
       "female": 0.75,
       "male": 0.25
@@ -3956,6 +3979,7 @@
       "specialAttack": 0,
       "specialDefense": 0
     },
+    "evolvesFrom": "clefairy",
     "genderRatio": {
       "female": 0.75,
       "male": 0.25
@@ -4243,6 +4267,7 @@
       "specialAttack": 0,
       "specialDefense": 1
     },
+    "evolvesFrom": "vulpix-alola",
     "genderRatio": {
       "female": 0.75,
       "male": 0.25
@@ -4422,6 +4447,7 @@
         }
       ]
     ],
+    "evolvesFrom": "igglybuff",
     "genderRatio": {
       "female": 0.75,
       "male": 0.25
@@ -4512,6 +4538,7 @@
       "specialAttack": 0,
       "specialDefense": 0
     },
+    "evolvesFrom": "jigglypuff",
     "genderRatio": {
       "female": 0.75,
       "male": 0.25
@@ -4711,6 +4738,7 @@
         }
       ]
     ],
+    "evolvesFrom": "zubat",
     "genderRatio": {
       "female": 0.5,
       "male": 0.5
@@ -4912,6 +4940,7 @@
         }
       ]
     ],
+    "evolvesFrom": "oddish",
     "genderRatio": {
       "female": 0.5,
       "male": 0.5
@@ -4990,6 +5019,7 @@
       "specialAttack": 3,
       "specialDefense": 0
     },
+    "evolvesFrom": "gloom",
     "genderRatio": {
       "female": 0.5,
       "male": 0.5
@@ -5176,6 +5206,7 @@
       "specialAttack": 0,
       "specialDefense": 0
     },
+    "evolvesFrom": "paras",
     "genderRatio": {
       "female": 0.5,
       "male": 0.5
@@ -5352,6 +5383,7 @@
       "specialAttack": 1,
       "specialDefense": 0
     },
+    "evolvesFrom": "venonat",
     "genderRatio": {
       "female": 0.5,
       "male": 0.5
@@ -5625,6 +5657,7 @@
       "specialAttack": 0,
       "specialDefense": 0
     },
+    "evolvesFrom": "diglett-alola",
     "genderRatio": {
       "female": 0.5,
       "male": 0.5
@@ -6072,6 +6105,7 @@
       "specialAttack": 0,
       "specialDefense": 0
     },
+    "evolvesFrom": "meowth-alola",
     "genderRatio": {
       "female": 0.5,
       "male": 0.5
@@ -6335,6 +6369,7 @@
       "specialAttack": 2,
       "specialDefense": 0
     },
+    "evolvesFrom": "psyduck",
     "genderRatio": {
       "female": 0.5,
       "male": 0.5
@@ -6521,6 +6556,7 @@
       "specialAttack": 0,
       "specialDefense": 0
     },
+    "evolvesFrom": "mankey",
     "genderRatio": {
       "female": 0.5,
       "male": 0.5
@@ -6700,6 +6736,7 @@
       "specialAttack": 0,
       "specialDefense": 0
     },
+    "evolvesFrom": "growlithe",
     "genderRatio": {
       "female": 0.25,
       "male": 0.75
@@ -6890,6 +6927,7 @@
         }
       ]
     ],
+    "evolvesFrom": "poliwag",
     "genderRatio": {
       "female": 0.5,
       "male": 0.5
@@ -6964,6 +7002,7 @@
       "specialAttack": 0,
       "specialDefense": 0
     },
+    "evolvesFrom": "poliwhirl",
     "genderRatio": {
       "female": 0.5,
       "male": 0.5
@@ -7132,6 +7171,7 @@
         }
       ]
     ],
+    "evolvesFrom": "abra",
     "genderRatio": {
       "female": 0.25,
       "male": 0.75
@@ -7214,6 +7254,7 @@
       "specialAttack": 3,
       "specialDefense": 0
     },
+    "evolvesFrom": "kadabra",
     "genderRatio": {
       "female": 0.25,
       "male": 0.75
@@ -7484,6 +7525,7 @@
         }
       ]
     ],
+    "evolvesFrom": "machop",
     "genderRatio": {
       "female": 0.25,
       "male": 0.75
@@ -7567,6 +7609,7 @@
       "specialAttack": 0,
       "specialDefense": 0
     },
+    "evolvesFrom": "machoke",
     "genderRatio": {
       "female": 0.25,
       "male": 0.75
@@ -7758,6 +7801,7 @@
         }
       ]
     ],
+    "evolvesFrom": "bellsprout",
     "genderRatio": {
       "female": 0.5,
       "male": 0.5
@@ -7834,6 +7878,7 @@
       "specialAttack": 0,
       "specialDefense": 0
     },
+    "evolvesFrom": "weepinbell",
     "genderRatio": {
       "female": 0.5,
       "male": 0.5
@@ -8008,6 +8053,7 @@
       "specialAttack": 0,
       "specialDefense": 2
     },
+    "evolvesFrom": "tentacool",
     "genderRatio": {
       "female": 0.5,
       "male": 0.5
@@ -8309,6 +8355,7 @@
         }
       ]
     ],
+    "evolvesFrom": "geodude-alola",
     "genderRatio": {
       "female": 0.5,
       "male": 0.5
@@ -8487,6 +8534,7 @@
       "specialAttack": 0,
       "specialDefense": 0
     },
+    "evolvesFrom": "graveler-alola",
     "genderRatio": {
       "female": 0.5,
       "male": 0.5
@@ -8849,6 +8897,7 @@
       "specialAttack": 0,
       "specialDefense": 0
     },
+    "evolvesFrom": "rapidash-galar",
     "genderRatio": {
       "female": 0.5,
       "male": 0.5
@@ -9225,6 +9274,7 @@
       "specialAttack": 0,
       "specialDefense": 0
     },
+    "evolvesFrom": "slowpoke-galar",
     "genderRatio": {
       "female": 0.5,
       "male": 0.5
@@ -9575,6 +9625,7 @@
         }
       ]
     ],
+    "evolvesFrom": "magnemite",
     "genderRatio": {
       "genderless": 1
     },
@@ -9956,6 +10007,7 @@
       "specialAttack": 0,
       "specialDefense": 0
     },
+    "evolvesFrom": "doduo",
     "genderRatio": {
       "female": 0.5,
       "male": 0.5
@@ -10145,6 +10197,7 @@
       "specialAttack": 0,
       "specialDefense": 2
     },
+    "evolvesFrom": "seel",
     "genderRatio": {
       "female": 0.5,
       "male": 0.5
@@ -10440,6 +10493,7 @@
       "specialAttack": 0,
       "specialDefense": 0
     },
+    "evolvesFrom": "grimer-alola",
     "genderRatio": {
       "female": 0.5,
       "male": 0.5
@@ -10701,6 +10755,7 @@
       "specialAttack": 0,
       "specialDefense": 0
     },
+    "evolvesFrom": "shellder",
     "genderRatio": {
       "female": 0.5,
       "male": 0.5
@@ -10891,6 +10946,7 @@
         }
       ]
     ],
+    "evolvesFrom": "gastly",
     "genderRatio": {
       "female": 0.5,
       "male": 0.5
@@ -10972,6 +11028,7 @@
       "specialAttack": 3,
       "specialDefense": 0
     },
+    "evolvesFrom": "haunter",
     "genderRatio": {
       "female": 0.5,
       "male": 0.5
@@ -11344,6 +11401,7 @@
       "specialAttack": 0,
       "specialDefense": 2
     },
+    "evolvesFrom": "drowzee",
     "genderRatio": {
       "female": 0.5,
       "male": 0.5
@@ -11519,6 +11577,7 @@
       "specialAttack": 0,
       "specialDefense": 0
     },
+    "evolvesFrom": "krabby",
     "genderRatio": {
       "female": 0.5,
       "male": 0.5
@@ -11683,6 +11742,7 @@
       "specialAttack": 0,
       "specialDefense": 0
     },
+    "evolvesFrom": "voltorb",
     "genderRatio": {
       "genderless": 1
     },
@@ -11858,6 +11918,7 @@
       "specialAttack": 2,
       "specialDefense": 0
     },
+    "evolvesFrom": "exeggcute",
     "genderRatio": {
       "female": 0.5,
       "male": 0.5
@@ -12121,6 +12182,7 @@
       "specialAttack": 0,
       "specialDefense": 0
     },
+    "evolvesFrom": "cubone",
     "genderRatio": {
       "female": 0.5,
       "male": 0.5
@@ -12284,6 +12346,7 @@
       "specialAttack": 0,
       "specialDefense": 0
     },
+    "evolvesFrom": "tyrogue",
     "genderRatio": {
       "male": 1
     },
@@ -12363,6 +12426,7 @@
       "specialAttack": 0,
       "specialDefense": 2
     },
+    "evolvesFrom": "tyrogue",
     "genderRatio": {
       "male": 1
     },
@@ -12635,6 +12699,7 @@
       "specialAttack": 0,
       "specialDefense": 0
     },
+    "evolvesFrom": "koffing",
     "genderRatio": {
       "female": 0.5,
       "male": 0.5
@@ -12925,6 +12990,7 @@
         }
       ]
     ],
+    "evolvesFrom": "rhyhorn",
     "genderRatio": {
       "female": 0.5,
       "male": 0.5
@@ -13021,6 +13087,7 @@
         }
       ]
     ],
+    "evolvesFrom": "happiny",
     "genderRatio": {
       "female": 1
     },
@@ -13476,6 +13543,7 @@
         }
       ]
     ],
+    "evolvesFrom": "horsea",
     "genderRatio": {
       "female": 0.5,
       "male": 0.5
@@ -13648,6 +13716,7 @@
       "specialAttack": 0,
       "specialDefense": 0
     },
+    "evolvesFrom": "goldeen",
     "genderRatio": {
       "female": 0.5,
       "male": 0.5
@@ -13818,6 +13887,7 @@
       "specialAttack": 0,
       "specialDefense": 0
     },
+    "evolvesFrom": "staryu",
     "genderRatio": {
       "genderless": 1
     },
@@ -13907,6 +13977,7 @@
       "specialAttack": 0,
       "specialDefense": 2
     },
+    "evolvesFrom": "mimejr",
     "genderRatio": {
       "female": 0.5,
       "male": 0.5
@@ -14192,6 +14263,7 @@
       "specialAttack": 2,
       "specialDefense": 0
     },
+    "evolvesFrom": "smoochum",
     "genderRatio": {
       "female": 1
     },
@@ -14281,6 +14353,7 @@
         }
       ]
     ],
+    "evolvesFrom": "elekid",
     "genderRatio": {
       "female": 0.25,
       "male": 0.75
@@ -14367,6 +14440,7 @@
         }
       ]
     ],
+    "evolvesFrom": "magby",
     "genderRatio": {
       "female": 0.25,
       "male": 0.75
@@ -14777,6 +14851,7 @@
       "specialAttack": 0,
       "specialDefense": 0
     },
+    "evolvesFrom": "magikarp",
     "genderRatio": {
       "female": 0.5,
       "male": 0.5
@@ -15255,6 +15330,7 @@
       "specialAttack": 0,
       "specialDefense": 0
     },
+    "evolvesFrom": "eevee",
     "genderRatio": {
       "female": 0.125,
       "male": 0.875
@@ -15345,6 +15421,7 @@
       "specialAttack": 0,
       "specialDefense": 0
     },
+    "evolvesFrom": "eevee",
     "genderRatio": {
       "female": 0.125,
       "male": 0.875
@@ -15435,6 +15512,7 @@
       "specialAttack": 0,
       "specialDefense": 0
     },
+    "evolvesFrom": "eevee",
     "genderRatio": {
       "female": 0.125,
       "male": 0.875
@@ -15712,6 +15790,7 @@
       "specialAttack": 0,
       "specialDefense": 0
     },
+    "evolvesFrom": "omanyte",
     "genderRatio": {
       "female": 0.125,
       "male": 0.875
@@ -15889,6 +15968,7 @@
       "specialAttack": 0,
       "specialDefense": 0
     },
+    "evolvesFrom": "kabuto",
     "genderRatio": {
       "female": 0.125,
       "male": 0.875
@@ -16163,6 +16243,7 @@
       "specialAttack": 0,
       "specialDefense": 0
     },
+    "evolvesFrom": "munchlax",
     "genderRatio": {
       "female": 0.125,
       "male": 0.875
@@ -16590,6 +16671,7 @@
         }
       ]
     ],
+    "evolvesFrom": "dratini",
     "genderRatio": {
       "female": 0.5,
       "male": 0.5
@@ -16668,6 +16750,7 @@
       "specialAttack": 0,
       "specialDefense": 0
     },
+    "evolvesFrom": "dragonair",
     "genderRatio": {
       "female": 0.5,
       "male": 0.5
@@ -17164,6 +17247,7 @@
         }
       ]
     ],
+    "evolvesFrom": "chikorita",
     "genderRatio": {
       "female": 0.125,
       "male": 0.875
@@ -17237,6 +17321,7 @@
       "specialAttack": 0,
       "specialDefense": 2
     },
+    "evolvesFrom": "bayleef",
     "genderRatio": {
       "female": 0.125,
       "male": 0.875
@@ -17418,6 +17503,7 @@
         }
       ]
     ],
+    "evolvesFrom": "cyndaquil",
     "genderRatio": {
       "female": 0.125,
       "male": 0.875
@@ -17491,6 +17577,7 @@
       "specialAttack": 3,
       "specialDefense": 0
     },
+    "evolvesFrom": "quilava",
     "genderRatio": {
       "female": 0.125,
       "male": 0.875
@@ -17676,6 +17763,7 @@
         }
       ]
     ],
+    "evolvesFrom": "totodile",
     "genderRatio": {
       "female": 0.125,
       "male": 0.875
@@ -17750,6 +17838,7 @@
       "specialAttack": 0,
       "specialDefense": 0
     },
+    "evolvesFrom": "croconaw",
     "genderRatio": {
       "female": 0.125,
       "male": 0.875
@@ -17923,6 +18012,7 @@
       "specialAttack": 0,
       "specialDefense": 0
     },
+    "evolvesFrom": "sentret",
     "genderRatio": {
       "female": 0.5,
       "male": 0.5
@@ -18096,6 +18186,7 @@
       "specialAttack": 0,
       "specialDefense": 0
     },
+    "evolvesFrom": "hoothoot",
     "genderRatio": {
       "female": 0.5,
       "male": 0.5
@@ -18276,6 +18367,7 @@
       "specialAttack": 0,
       "specialDefense": 2
     },
+    "evolvesFrom": "ledyba",
     "genderRatio": {
       "female": 0.5,
       "male": 0.5
@@ -18458,6 +18550,7 @@
       "specialAttack": 0,
       "specialDefense": 0
     },
+    "evolvesFrom": "spinarak",
     "genderRatio": {
       "female": 0.5,
       "male": 0.5
@@ -18543,6 +18636,7 @@
       "specialAttack": 0,
       "specialDefense": 0
     },
+    "evolvesFrom": "golbat",
     "genderRatio": {
       "female": 0.5,
       "male": 0.5
@@ -18723,6 +18817,7 @@
       "specialAttack": 0,
       "specialDefense": 0
     },
+    "evolvesFrom": "chinchou",
     "genderRatio": {
       "female": 0.5,
       "male": 0.5
@@ -19269,6 +19364,7 @@
         }
       ]
     ],
+    "evolvesFrom": "togepi",
     "genderRatio": {
       "female": 0.125,
       "male": 0.875
@@ -19441,6 +19537,7 @@
       "specialAttack": 1,
       "specialDefense": 0
     },
+    "evolvesFrom": "natu",
     "genderRatio": {
       "female": 0.5,
       "male": 0.5
@@ -19627,6 +19724,7 @@
         }
       ]
     ],
+    "evolvesFrom": "mareep",
     "genderRatio": {
       "female": 0.5,
       "male": 0.5
@@ -19707,6 +19805,7 @@
       "specialAttack": 3,
       "specialDefense": 0
     },
+    "evolvesFrom": "flaaffy",
     "genderRatio": {
       "female": 0.5,
       "male": 0.5
@@ -19879,6 +19978,7 @@
       "specialAttack": 0,
       "specialDefense": 3
     },
+    "evolvesFrom": "gloom",
     "genderRatio": {
       "female": 0.5,
       "male": 0.5
@@ -19979,6 +20079,7 @@
         }
       ]
     ],
+    "evolvesFrom": "azurill",
     "genderRatio": {
       "female": 0.5,
       "male": 0.5
@@ -20062,6 +20163,7 @@
       "specialAttack": 0,
       "specialDefense": 0
     },
+    "evolvesFrom": "marill",
     "genderRatio": {
       "female": 0.5,
       "male": 0.5
@@ -20152,6 +20254,7 @@
       "specialAttack": 0,
       "specialDefense": 0
     },
+    "evolvesFrom": "bonsly",
     "genderRatio": {
       "female": 0.5,
       "male": 0.5
@@ -20235,6 +20338,7 @@
       "specialAttack": 0,
       "specialDefense": 3
     },
+    "evolvesFrom": "poliwhirl",
     "genderRatio": {
       "female": 0.5,
       "male": 0.5
@@ -20425,6 +20529,7 @@
         }
       ]
     ],
+    "evolvesFrom": "hoppip",
     "genderRatio": {
       "female": 0.5,
       "male": 0.5
@@ -20507,6 +20612,7 @@
       "specialAttack": 0,
       "specialDefense": 0
     },
+    "evolvesFrom": "skiploom",
     "genderRatio": {
       "female": 0.5,
       "male": 0.5
@@ -20786,6 +20892,7 @@
       "specialAttack": 2,
       "specialDefense": 0
     },
+    "evolvesFrom": "sunkern",
     "genderRatio": {
       "female": 0.5,
       "male": 0.5
@@ -21063,6 +21170,7 @@
       "specialAttack": 0,
       "specialDefense": 0
     },
+    "evolvesFrom": "wooper",
     "genderRatio": {
       "female": 0.5,
       "male": 0.5
@@ -21140,6 +21248,7 @@
       "specialAttack": 2,
       "specialDefense": 0
     },
+    "evolvesFrom": "eevee",
     "genderRatio": {
       "female": 0.125,
       "male": 0.875
@@ -21227,6 +21336,7 @@
       "specialAttack": 0,
       "specialDefense": 2
     },
+    "evolvesFrom": "eevee",
     "genderRatio": {
       "female": 0.125,
       "male": 0.875
@@ -21422,6 +21532,7 @@
       "specialAttack": 0,
       "specialDefense": 3
     },
+    "evolvesFrom": "slowpoke",
     "genderRatio": {
       "female": 0.5,
       "male": 0.5
@@ -23195,6 +23306,7 @@
       "specialAttack": 0,
       "specialDefense": 0
     },
+    "evolvesFrom": "wynaut",
     "genderRatio": {
       "female": 0.5,
       "male": 0.5
@@ -23459,6 +23571,7 @@
       "specialAttack": 0,
       "specialDefense": 0
     },
+    "evolvesFrom": "pineco",
     "genderRatio": {
       "female": 0.5,
       "male": 0.5
@@ -23732,6 +23845,7 @@
       "specialAttack": 0,
       "specialDefense": 0
     },
+    "evolvesFrom": "onix",
     "genderRatio": {
       "female": 0.5,
       "male": 0.5
@@ -24012,6 +24126,7 @@
       "specialAttack": 0,
       "specialDefense": 0
     },
+    "evolvesFrom": "snubbull",
     "genderRatio": {
       "female": 0.75,
       "male": 0.25
@@ -24180,6 +24295,7 @@
       "specialAttack": 0,
       "specialDefense": 0
     },
+    "evolvesFrom": "scyther",
     "genderRatio": {
       "female": 0.5,
       "male": 0.5
@@ -24814,6 +24930,7 @@
       "specialAttack": 0,
       "specialDefense": 0
     },
+    "evolvesFrom": "teddiursa",
     "genderRatio": {
       "female": 0.5,
       "male": 0.5
@@ -24986,6 +25103,7 @@
       "specialAttack": 0,
       "specialDefense": 0
     },
+    "evolvesFrom": "slugma",
     "genderRatio": {
       "female": 0.5,
       "male": 0.5
@@ -25170,6 +25288,7 @@
         }
       ]
     ],
+    "evolvesFrom": "swinub",
     "genderRatio": {
       "female": 0.5,
       "male": 0.5
@@ -25530,6 +25649,7 @@
       "specialAttack": 1,
       "specialDefense": 0
     },
+    "evolvesFrom": "remoraid",
     "genderRatio": {
       "female": 0.5,
       "male": 0.5
@@ -25699,6 +25819,7 @@
       "specialAttack": 0,
       "specialDefense": 2
     },
+    "evolvesFrom": "mantyke",
     "genderRatio": {
       "female": 0.5,
       "male": 0.5
@@ -25972,6 +26093,7 @@
       "specialAttack": 2,
       "specialDefense": 0
     },
+    "evolvesFrom": "houndour",
     "genderRatio": {
       "female": 0.5,
       "male": 0.5
@@ -26138,6 +26260,7 @@
       "specialAttack": 1,
       "specialDefense": 1
     },
+    "evolvesFrom": "seadra",
     "genderRatio": {
       "female": 0.5,
       "male": 0.5
@@ -26309,6 +26432,7 @@
       "specialAttack": 0,
       "specialDefense": 0
     },
+    "evolvesFrom": "phanpy",
     "genderRatio": {
       "female": 0.5,
       "male": 0.5
@@ -26394,6 +26518,7 @@
         }
       ]
     ],
+    "evolvesFrom": "porygon",
     "genderRatio": {
       "genderless": 1
     },
@@ -26719,6 +26844,7 @@
       "specialAttack": 0,
       "specialDefense": 2
     },
+    "evolvesFrom": "tyrogue",
     "genderRatio": {
       "male": 1
     },
@@ -27166,6 +27292,7 @@
       "specialAttack": 0,
       "specialDefense": 0
     },
+    "evolvesFrom": "chansey",
     "genderRatio": {
       "female": 1
     },
@@ -27564,6 +27691,7 @@
         }
       ]
     ],
+    "evolvesFrom": "larvitar",
     "genderRatio": {
       "female": 0.5,
       "male": 0.5
@@ -27643,6 +27771,7 @@
       "specialAttack": 0,
       "specialDefense": 0
     },
+    "evolvesFrom": "pupitar",
     "genderRatio": {
       "female": 0.5,
       "male": 0.5
@@ -28130,6 +28259,7 @@
         }
       ]
     ],
+    "evolvesFrom": "treecko",
     "genderRatio": {
       "female": 0.125,
       "male": 0.875
@@ -28206,6 +28336,7 @@
       "specialAttack": 0,
       "specialDefense": 0
     },
+    "evolvesFrom": "grovyle",
     "genderRatio": {
       "female": 0.125,
       "male": 0.875
@@ -28467,6 +28598,7 @@
         }
       ]
     ],
+    "evolvesFrom": "torchic",
     "genderRatio": {
       "female": 0.125,
       "male": 0.875
@@ -28541,6 +28673,7 @@
       "specialAttack": 0,
       "specialDefense": 0
     },
+    "evolvesFrom": "combusken",
     "genderRatio": {
       "female": 0.125,
       "male": 0.875
@@ -28807,6 +28940,7 @@
         }
       ]
     ],
+    "evolvesFrom": "mudkip",
     "genderRatio": {
       "female": 0.125,
       "male": 0.875
@@ -28882,6 +29016,7 @@
       "specialAttack": 0,
       "specialDefense": 0
     },
+    "evolvesFrom": "marshtomp",
     "genderRatio": {
       "female": 0.125,
       "male": 0.875
@@ -29132,6 +29267,7 @@
       "specialAttack": 0,
       "specialDefense": 0
     },
+    "evolvesFrom": "poochyena",
     "genderRatio": {
       "female": 0.5,
       "male": 0.5
@@ -29396,6 +29532,7 @@
       "specialAttack": 0,
       "specialDefense": 0
     },
+    "evolvesFrom": "zigzagoon-galar",
     "genderRatio": {
       "female": 0.5,
       "male": 0.5
@@ -29652,6 +29789,7 @@
         }
       ]
     ],
+    "evolvesFrom": "wurmple",
     "genderRatio": {
       "female": 0.5,
       "male": 0.5
@@ -29709,6 +29847,7 @@
       "specialAttack": 3,
       "specialDefense": 0
     },
+    "evolvesFrom": "silcoon",
     "genderRatio": {
       "female": 0.5,
       "male": 0.5
@@ -29789,6 +29928,7 @@
         }
       ]
     ],
+    "evolvesFrom": "wurmple",
     "genderRatio": {
       "female": 0.5,
       "male": 0.5
@@ -29846,6 +29986,7 @@
       "specialAttack": 0,
       "specialDefense": 3
     },
+    "evolvesFrom": "cascoon",
     "genderRatio": {
       "female": 0.5,
       "male": 0.5
@@ -30021,6 +30162,7 @@
         }
       ]
     ],
+    "evolvesFrom": "lotad",
     "genderRatio": {
       "female": 0.5,
       "male": 0.5
@@ -30101,6 +30243,7 @@
       "specialAttack": 0,
       "specialDefense": 3
     },
+    "evolvesFrom": "lombre",
     "genderRatio": {
       "female": 0.5,
       "male": 0.5
@@ -30280,6 +30423,7 @@
         }
       ]
     ],
+    "evolvesFrom": "seedot",
     "genderRatio": {
       "female": 0.5,
       "male": 0.5
@@ -30362,6 +30506,7 @@
       "specialAttack": 0,
       "specialDefense": 0
     },
+    "evolvesFrom": "nuzleaf",
     "genderRatio": {
       "female": 0.5,
       "male": 0.5
@@ -30540,6 +30685,7 @@
       "specialAttack": 0,
       "specialDefense": 0
     },
+    "evolvesFrom": "taillow",
     "genderRatio": {
       "female": 0.5,
       "male": 0.5
@@ -30712,6 +30858,7 @@
       "specialAttack": 0,
       "specialDefense": 0
     },
+    "evolvesFrom": "wingull",
     "genderRatio": {
       "female": 0.5,
       "male": 0.5
@@ -30911,6 +31058,7 @@
         }
       ]
     ],
+    "evolvesFrom": "ralts",
     "genderRatio": {
       "female": 0.5,
       "male": 0.5
@@ -30988,6 +31136,7 @@
       "specialAttack": 3,
       "specialDefense": 0
     },
+    "evolvesFrom": "kirlia",
     "genderRatio": {
       "female": 0.5,
       "male": 0.5
@@ -31250,6 +31399,7 @@
       "specialAttack": 1,
       "specialDefense": 1
     },
+    "evolvesFrom": "surskit",
     "genderRatio": {
       "female": 0.5,
       "male": 0.5
@@ -31426,6 +31576,7 @@
       "specialAttack": 0,
       "specialDefense": 0
     },
+    "evolvesFrom": "shroomish",
     "genderRatio": {
       "female": 0.5,
       "male": 0.5
@@ -31598,6 +31749,7 @@
         }
       ]
     ],
+    "evolvesFrom": "slakoth",
     "genderRatio": {
       "female": 0.5,
       "male": 0.5
@@ -31668,6 +31820,7 @@
       "specialAttack": 0,
       "specialDefense": 0
     },
+    "evolvesFrom": "vigoroth",
     "genderRatio": {
       "female": 0.5,
       "male": 0.5
@@ -31837,6 +31990,7 @@
       "specialAttack": 0,
       "specialDefense": 0
     },
+    "evolvesFrom": "nincada",
     "genderRatio": {
       "female": 0.5,
       "male": 0.5
@@ -31922,6 +32076,7 @@
       "specialAttack": 0,
       "specialDefense": 0
     },
+    "evolvesFrom": "nincada",
     "genderRatio": {
       "genderless": 1
     },
@@ -32099,6 +32254,7 @@
         }
       ]
     ],
+    "evolvesFrom": "whismur",
     "genderRatio": {
       "female": 0.5,
       "male": 0.5
@@ -32174,6 +32330,7 @@
       "specialAttack": 0,
       "specialDefense": 0
     },
+    "evolvesFrom": "loudred",
     "genderRatio": {
       "female": 0.5,
       "male": 0.5
@@ -32357,6 +32514,7 @@
       "specialAttack": 0,
       "specialDefense": 0
     },
+    "evolvesFrom": "makuhita",
     "genderRatio": {
       "female": 0.25,
       "male": 0.75
@@ -32742,6 +32900,7 @@
       "specialAttack": 0,
       "specialDefense": 0
     },
+    "evolvesFrom": "skitty",
     "genderRatio": {
       "female": 0.75,
       "male": 0.25
@@ -33271,6 +33430,7 @@
         }
       ]
     ],
+    "evolvesFrom": "aron",
     "genderRatio": {
       "female": 0.5,
       "male": 0.5
@@ -33351,6 +33511,7 @@
       "specialAttack": 0,
       "specialDefense": 0
     },
+    "evolvesFrom": "lairon",
     "genderRatio": {
       "female": 0.5,
       "male": 0.5
@@ -33610,6 +33771,7 @@
       "specialAttack": 0,
       "specialDefense": 0
     },
+    "evolvesFrom": "meditite",
     "genderRatio": {
       "female": 0.5,
       "male": 0.5
@@ -33870,6 +34032,7 @@
       "specialAttack": 0,
       "specialDefense": 0
     },
+    "evolvesFrom": "electrike",
     "genderRatio": {
       "female": 0.5,
       "male": 0.5
@@ -34384,6 +34547,7 @@
         }
       ]
     ],
+    "evolvesFrom": "budew",
     "genderRatio": {
       "female": 0.5,
       "male": 0.5
@@ -34559,6 +34723,7 @@
       "specialAttack": 0,
       "specialDefense": 0
     },
+    "evolvesFrom": "gulpin",
     "genderRatio": {
       "female": 0.5,
       "male": 0.5
@@ -34732,6 +34897,7 @@
       "specialAttack": 0,
       "specialDefense": 0
     },
+    "evolvesFrom": "carvanha",
     "genderRatio": {
       "female": 0.5,
       "male": 0.5
@@ -34987,6 +35153,7 @@
       "specialAttack": 0,
       "specialDefense": 0
     },
+    "evolvesFrom": "wailmer",
     "genderRatio": {
       "female": 0.5,
       "male": 0.5
@@ -35170,6 +35337,7 @@
       "specialAttack": 1,
       "specialDefense": 0
     },
+    "evolvesFrom": "numel",
     "genderRatio": {
       "female": 0.5,
       "male": 0.5
@@ -35514,6 +35682,7 @@
       "specialAttack": 0,
       "specialDefense": 2
     },
+    "evolvesFrom": "spoink",
     "genderRatio": {
       "female": 0.5,
       "male": 0.5
@@ -35790,6 +35959,7 @@
         }
       ]
     ],
+    "evolvesFrom": "trapinch",
     "genderRatio": {
       "female": 0.5,
       "male": 0.5
@@ -35875,6 +36045,7 @@
       "specialAttack": 0,
       "specialDefense": 0
     },
+    "evolvesFrom": "vibrava",
     "genderRatio": {
       "female": 0.5,
       "male": 0.5
@@ -36067,6 +36238,7 @@
       "specialAttack": 1,
       "specialDefense": 0
     },
+    "evolvesFrom": "cacnea",
     "genderRatio": {
       "female": 0.5,
       "male": 0.5
@@ -36248,6 +36420,7 @@
       "specialAttack": 0,
       "specialDefense": 2
     },
+    "evolvesFrom": "swablu",
     "genderRatio": {
       "female": 0.5,
       "male": 0.5
@@ -36847,6 +37020,7 @@
       "specialAttack": 0,
       "specialDefense": 0
     },
+    "evolvesFrom": "barboach",
     "genderRatio": {
       "female": 0.5,
       "male": 0.5
@@ -37024,6 +37198,7 @@
       "specialAttack": 0,
       "specialDefense": 0
     },
+    "evolvesFrom": "corphish",
     "genderRatio": {
       "female": 0.5,
       "male": 0.5
@@ -37190,6 +37365,7 @@
       "specialAttack": 0,
       "specialDefense": 2
     },
+    "evolvesFrom": "baltoy",
     "genderRatio": {
       "genderless": 1
     },
@@ -37366,6 +37542,7 @@
       "specialAttack": 0,
       "specialDefense": 2
     },
+    "evolvesFrom": "lileep",
     "genderRatio": {
       "female": 0.125,
       "male": 0.875
@@ -37537,6 +37714,7 @@
       "specialAttack": 0,
       "specialDefense": 0
     },
+    "evolvesFrom": "anorith",
     "genderRatio": {
       "female": 0.125,
       "male": 0.875
@@ -37704,6 +37882,7 @@
       "specialAttack": 0,
       "specialDefense": 2
     },
+    "evolvesFrom": "feebas",
     "genderRatio": {
       "female": 0.5,
       "male": 0.5
@@ -38332,6 +38511,7 @@
       "specialAttack": 0,
       "specialDefense": 0
     },
+    "evolvesFrom": "shuppet",
     "genderRatio": {
       "female": 0.5,
       "male": 0.5
@@ -38588,6 +38768,7 @@
         }
       ]
     ],
+    "evolvesFrom": "duskull",
     "genderRatio": {
       "female": 0.5,
       "male": 0.5
@@ -38774,6 +38955,7 @@
       "specialAttack": 1,
       "specialDefense": 1
     },
+    "evolvesFrom": "chingling",
     "genderRatio": {
       "female": 0.5,
       "male": 0.5
@@ -39233,6 +39415,7 @@
       "specialAttack": 0,
       "specialDefense": 0
     },
+    "evolvesFrom": "snorunt",
     "genderRatio": {
       "female": 0.5,
       "male": 0.5
@@ -39504,6 +39687,7 @@
         }
       ]
     ],
+    "evolvesFrom": "spheal",
     "genderRatio": {
       "female": 0.5,
       "male": 0.5
@@ -39583,6 +39767,7 @@
       "specialAttack": 0,
       "specialDefense": 0
     },
+    "evolvesFrom": "sealeo",
     "genderRatio": {
       "female": 0.5,
       "male": 0.5
@@ -39758,6 +39943,7 @@
       "specialAttack": 0,
       "specialDefense": 0
     },
+    "evolvesFrom": "clamperl",
     "genderRatio": {
       "female": 0.5,
       "male": 0.5
@@ -39831,6 +40017,7 @@
       "specialAttack": 2,
       "specialDefense": 0
     },
+    "evolvesFrom": "clamperl",
     "genderRatio": {
       "female": 0.5,
       "male": 0.5
@@ -40185,6 +40372,7 @@
         }
       ]
     ],
+    "evolvesFrom": "bagon",
     "genderRatio": {
       "female": 0.5,
       "male": 0.5
@@ -40262,6 +40450,7 @@
       "specialAttack": 0,
       "specialDefense": 0
     },
+    "evolvesFrom": "shelgon",
     "genderRatio": {
       "female": 0.5,
       "male": 0.5
@@ -40504,6 +40693,7 @@
         }
       ]
     ],
+    "evolvesFrom": "beldum",
     "genderRatio": {
       "genderless": 1
     },
@@ -40581,6 +40771,7 @@
       "specialAttack": 0,
       "specialDefense": 0
     },
+    "evolvesFrom": "metang",
     "genderRatio": {
       "genderless": 1
     },
@@ -42137,6 +42328,7 @@
         }
       ]
     ],
+    "evolvesFrom": "turtwig",
     "genderRatio": {
       "female": 0.125,
       "male": 0.875
@@ -42207,6 +42399,7 @@
       "specialAttack": 0,
       "specialDefense": 0
     },
+    "evolvesFrom": "grotle",
     "genderRatio": {
       "female": 0.125,
       "male": 0.875
@@ -42386,6 +42579,7 @@
         }
       ]
     ],
+    "evolvesFrom": "chimchar",
     "genderRatio": {
       "female": 0.125,
       "male": 0.875
@@ -42459,6 +42653,7 @@
       "specialAttack": 1,
       "specialDefense": 0
     },
+    "evolvesFrom": "monferno",
     "genderRatio": {
       "female": 0.125,
       "male": 0.875
@@ -42635,6 +42830,7 @@
         }
       ]
     ],
+    "evolvesFrom": "piplup",
     "genderRatio": {
       "female": 0.125,
       "male": 0.875
@@ -42708,6 +42904,7 @@
       "specialAttack": 3,
       "specialDefense": 0
     },
+    "evolvesFrom": "prinplup",
     "genderRatio": {
       "female": 0.125,
       "male": 0.875
@@ -42884,6 +43081,7 @@
         }
       ]
     ],
+    "evolvesFrom": "starly",
     "genderRatio": {
       "female": 0.5,
       "male": 0.5
@@ -42954,6 +43152,7 @@
       "specialAttack": 0,
       "specialDefense": 0
     },
+    "evolvesFrom": "staravia",
     "genderRatio": {
       "female": 0.5,
       "male": 0.5
@@ -43125,6 +43324,7 @@
       "specialAttack": 0,
       "specialDefense": 0
     },
+    "evolvesFrom": "bidoof",
     "genderRatio": {
       "female": 0.5,
       "male": 0.5
@@ -43268,6 +43468,7 @@
       "specialAttack": 0,
       "specialDefense": 0
     },
+    "evolvesFrom": "kricketot",
     "genderRatio": {
       "female": 0.5,
       "male": 0.5
@@ -43438,6 +43639,7 @@
         }
       ]
     ],
+    "evolvesFrom": "shinx",
     "genderRatio": {
       "female": 0.5,
       "male": 0.5
@@ -43509,6 +43711,7 @@
       "specialAttack": 0,
       "specialDefense": 0
     },
+    "evolvesFrom": "luxio",
     "genderRatio": {
       "female": 0.5,
       "male": 0.5
@@ -43664,6 +43867,7 @@
       "specialAttack": 3,
       "specialDefense": 0
     },
+    "evolvesFrom": "roselia",
     "genderRatio": {
       "female": 0.5,
       "male": 0.5
@@ -43835,6 +44039,7 @@
       "specialAttack": 0,
       "specialDefense": 0
     },
+    "evolvesFrom": "cranidos",
     "genderRatio": {
       "female": 0.125,
       "male": 0.875
@@ -44002,6 +44207,7 @@
       "specialAttack": 0,
       "specialDefense": 0
     },
+    "evolvesFrom": "shieldon",
     "genderRatio": {
       "female": 0.125,
       "male": 0.875
@@ -44302,6 +44508,7 @@
       "specialAttack": 0,
       "specialDefense": 2
     },
+    "evolvesFrom": "burmy-trash",
     "formName": "Plant Cloak",
     "genderRatio": {
       "female": 1
@@ -44533,6 +44740,7 @@
       "specialAttack": 1,
       "specialDefense": 0
     },
+    "evolvesFrom": "burmy-trash",
     "genderRatio": {
       "male": 1
     },
@@ -44680,6 +44888,7 @@
       "specialAttack": 0,
       "specialDefense": 1
     },
+    "evolvesFrom": "combee",
     "genderRatio": {
       "female": 1
     },
@@ -44947,6 +45156,7 @@
       "specialAttack": 0,
       "specialDefense": 0
     },
+    "evolvesFrom": "buizel",
     "genderRatio": {
       "female": 0.5,
       "male": 0.5
@@ -45113,6 +45323,7 @@
       "specialAttack": 2,
       "specialDefense": 0
     },
+    "evolvesFrom": "cherubi",
     "formName": "Overcast Form",
     "genderRatio": {
       "female": 0.5,
@@ -45452,6 +45663,7 @@
       "specialAttack": 0,
       "specialDefense": 0
     },
+    "evolvesFrom": "shellos-east",
     "formName": "West Sea",
     "genderRatio": {
       "female": 0.5,
@@ -45600,6 +45812,7 @@
       "specialAttack": 0,
       "specialDefense": 0
     },
+    "evolvesFrom": "aipom",
     "genderRatio": {
       "female": 0.5,
       "male": 0.5
@@ -45772,6 +45985,7 @@
       "specialAttack": 0,
       "specialDefense": 0
     },
+    "evolvesFrom": "drifloon",
     "genderRatio": {
       "female": 0.5,
       "male": 0.5
@@ -45950,6 +46164,7 @@
       "specialAttack": 0,
       "specialDefense": 0
     },
+    "evolvesFrom": "buneary",
     "genderRatio": {
       "female": 0.5,
       "male": 0.5
@@ -46105,6 +46320,7 @@
       "specialAttack": 1,
       "specialDefense": 1
     },
+    "evolvesFrom": "misdreavus",
     "genderRatio": {
       "female": 0.5,
       "male": 0.5
@@ -46171,6 +46387,7 @@
       "specialAttack": 0,
       "specialDefense": 0
     },
+    "evolvesFrom": "murkrow",
     "genderRatio": {
       "female": 0.5,
       "male": 0.5
@@ -46332,6 +46549,7 @@
       "specialAttack": 0,
       "specialDefense": 0
     },
+    "evolvesFrom": "glameow",
     "genderRatio": {
       "female": 0.75,
       "male": 0.25
@@ -46580,6 +46798,7 @@
       "specialAttack": 0,
       "specialDefense": 0
     },
+    "evolvesFrom": "stunky",
     "genderRatio": {
       "female": 0.5,
       "male": 0.5
@@ -46740,6 +46959,7 @@
       "specialAttack": 0,
       "specialDefense": 1
     },
+    "evolvesFrom": "bronzor",
     "genderRatio": {
       "genderless": 1
     },
@@ -47362,6 +47582,7 @@
         }
       ]
     ],
+    "evolvesFrom": "gible",
     "genderRatio": {
       "female": 0.5,
       "male": 0.5
@@ -47436,6 +47657,7 @@
       "specialAttack": 0,
       "specialDefense": 0
     },
+    "evolvesFrom": "gabite",
     "genderRatio": {
       "female": 0.5,
       "male": 0.5
@@ -47784,6 +48006,7 @@
       "specialAttack": 1,
       "specialDefense": 0
     },
+    "evolvesFrom": "riolu",
     "genderRatio": {
       "female": 0.125,
       "male": 0.875
@@ -48058,6 +48281,7 @@
       "specialAttack": 0,
       "specialDefense": 0
     },
+    "evolvesFrom": "hippopotas",
     "genderRatio": {
       "female": 0.5,
       "male": 0.5
@@ -48231,6 +48455,7 @@
       "specialAttack": 0,
       "specialDefense": 0
     },
+    "evolvesFrom": "skorupi",
     "genderRatio": {
       "female": 0.5,
       "male": 0.5
@@ -48408,6 +48633,7 @@
       "specialAttack": 0,
       "specialDefense": 0
     },
+    "evolvesFrom": "croagunk",
     "genderRatio": {
       "female": 0.5,
       "male": 0.5
@@ -48662,6 +48888,7 @@
       "specialAttack": 0,
       "specialDefense": 0
     },
+    "evolvesFrom": "finneon",
     "genderRatio": {
       "female": 0.5,
       "male": 0.5
@@ -48920,6 +49147,7 @@
       "specialAttack": 1,
       "specialDefense": 0
     },
+    "evolvesFrom": "snover",
     "genderRatio": {
       "female": 0.5,
       "male": 0.5
@@ -49071,6 +49299,7 @@
       "specialAttack": 0,
       "specialDefense": 0
     },
+    "evolvesFrom": "sneasel",
     "genderRatio": {
       "female": 0.5,
       "male": 0.5
@@ -49153,6 +49382,7 @@
       "specialAttack": 3,
       "specialDefense": 0
     },
+    "evolvesFrom": "magneton",
     "genderRatio": {
       "genderless": 1
     },
@@ -49233,6 +49463,7 @@
       "specialAttack": 0,
       "specialDefense": 0
     },
+    "evolvesFrom": "lickitung",
     "genderRatio": {
       "female": 0.5,
       "male": 0.5
@@ -49306,6 +49537,7 @@
       "specialAttack": 0,
       "specialDefense": 0
     },
+    "evolvesFrom": "rhydon",
     "genderRatio": {
       "female": 0.5,
       "male": 0.5
@@ -49382,6 +49614,7 @@
       "specialAttack": 0,
       "specialDefense": 0
     },
+    "evolvesFrom": "tangela",
     "genderRatio": {
       "female": 0.5,
       "male": 0.5
@@ -49455,6 +49688,7 @@
       "specialAttack": 0,
       "specialDefense": 0
     },
+    "evolvesFrom": "electabuzz",
     "genderRatio": {
       "female": 0.25,
       "male": 0.75
@@ -49533,6 +49767,7 @@
       "specialAttack": 3,
       "specialDefense": 0
     },
+    "evolvesFrom": "magmar",
     "genderRatio": {
       "female": 0.25,
       "male": 0.75
@@ -49610,6 +49845,7 @@
       "specialAttack": 2,
       "specialDefense": 1
     },
+    "evolvesFrom": "togetic",
     "genderRatio": {
       "female": 0.125,
       "male": 0.875
@@ -49690,6 +49926,7 @@
       "specialAttack": 0,
       "specialDefense": 0
     },
+    "evolvesFrom": "yanma",
     "genderRatio": {
       "female": 0.5,
       "male": 0.5
@@ -49770,6 +50007,7 @@
       "specialAttack": 0,
       "specialDefense": 0
     },
+    "evolvesFrom": "eevee",
     "genderRatio": {
       "female": 0.125,
       "male": 0.875
@@ -49855,6 +50093,7 @@
       "specialAttack": 2,
       "specialDefense": 0
     },
+    "evolvesFrom": "eevee",
     "genderRatio": {
       "female": 0.125,
       "male": 0.875
@@ -49940,6 +50179,7 @@
       "specialAttack": 0,
       "specialDefense": 0
     },
+    "evolvesFrom": "gligar",
     "genderRatio": {
       "female": 0.5,
       "male": 0.5
@@ -50020,6 +50260,7 @@
       "specialAttack": 0,
       "specialDefense": 0
     },
+    "evolvesFrom": "piloswine",
     "genderRatio": {
       "female": 0.5,
       "male": 0.5
@@ -50098,6 +50339,7 @@
       "specialAttack": 3,
       "specialDefense": 0
     },
+    "evolvesFrom": "porygon2",
     "genderRatio": {
       "genderless": 1
     },
@@ -50172,6 +50414,7 @@
       "specialAttack": 0,
       "specialDefense": 0
     },
+    "evolvesFrom": "kirlia",
     "genderRatio": {
       "male": 1
     },
@@ -50357,6 +50600,7 @@
       "specialAttack": 0,
       "specialDefense": 2
     },
+    "evolvesFrom": "nosepass",
     "genderRatio": {
       "female": 0.5,
       "male": 0.5
@@ -50444,6 +50688,7 @@
       "specialAttack": 0,
       "specialDefense": 2
     },
+    "evolvesFrom": "dusclops",
     "genderRatio": {
       "female": 0.5,
       "male": 0.5
@@ -50522,6 +50767,7 @@
       "specialAttack": 0,
       "specialDefense": 0
     },
+    "evolvesFrom": "snorunt",
     "genderRatio": {
       "female": 1
     },
@@ -53421,6 +53667,7 @@
         }
       ]
     ],
+    "evolvesFrom": "snivy",
     "genderRatio": {
       "female": 0.125,
       "male": 0.875
@@ -53495,6 +53742,7 @@
       "specialAttack": 0,
       "specialDefense": 0
     },
+    "evolvesFrom": "servine",
     "genderRatio": {
       "female": 0.125,
       "male": 0.875
@@ -53668,6 +53916,7 @@
         }
       ]
     ],
+    "evolvesFrom": "tepig",
     "genderRatio": {
       "female": 0.125,
       "male": 0.875
@@ -53744,6 +53993,7 @@
       "specialAttack": 0,
       "specialDefense": 0
     },
+    "evolvesFrom": "pignite",
     "genderRatio": {
       "female": 0.125,
       "male": 0.875
@@ -53917,6 +54167,7 @@
         }
       ]
     ],
+    "evolvesFrom": "oshawott",
     "genderRatio": {
       "female": 0.125,
       "male": 0.875
@@ -53990,6 +54241,7 @@
       "specialAttack": 3,
       "specialDefense": 0
     },
+    "evolvesFrom": "dewott",
     "genderRatio": {
       "female": 0.125,
       "male": 0.875
@@ -54158,6 +54410,7 @@
       "specialAttack": 0,
       "specialDefense": 0
     },
+    "evolvesFrom": "patrat",
     "genderRatio": {
       "female": 0.5,
       "male": 0.5
@@ -54337,6 +54590,7 @@
         }
       ]
     ],
+    "evolvesFrom": "lillipup",
     "genderRatio": {
       "female": 0.5,
       "male": 0.5
@@ -54410,6 +54664,7 @@
       "specialAttack": 0,
       "specialDefense": 0
     },
+    "evolvesFrom": "herdier",
     "genderRatio": {
       "female": 0.5,
       "male": 0.5
@@ -54574,6 +54829,7 @@
       "specialAttack": 0,
       "specialDefense": 0
     },
+    "evolvesFrom": "purrloin",
     "genderRatio": {
       "female": 0.5,
       "male": 0.5
@@ -54739,6 +54995,7 @@
       "specialAttack": 0,
       "specialDefense": 0
     },
+    "evolvesFrom": "pansage",
     "genderRatio": {
       "female": 0.125,
       "male": 0.875
@@ -54895,6 +55152,7 @@
       "specialAttack": 0,
       "specialDefense": 0
     },
+    "evolvesFrom": "pansear",
     "genderRatio": {
       "female": 0.125,
       "male": 0.875
@@ -55049,6 +55307,7 @@
       "specialAttack": 0,
       "specialDefense": 0
     },
+    "evolvesFrom": "panpour",
     "genderRatio": {
       "female": 0.125,
       "male": 0.875
@@ -55196,6 +55455,7 @@
       "specialAttack": 0,
       "specialDefense": 0
     },
+    "evolvesFrom": "munna",
     "genderRatio": {
       "female": 0.5,
       "male": 0.5
@@ -55366,6 +55626,7 @@
         }
       ]
     ],
+    "evolvesFrom": "pidove",
     "genderRatio": {
       "female": 0.5,
       "male": 0.5
@@ -55438,6 +55699,7 @@
       "specialAttack": 0,
       "specialDefense": 0
     },
+    "evolvesFrom": "tranquill",
     "genderRatio": {
       "female": 0.5,
       "male": 0.5
@@ -55599,6 +55861,7 @@
       "specialAttack": 0,
       "specialDefense": 0
     },
+    "evolvesFrom": "blitzle",
     "genderRatio": {
       "female": 0.5,
       "male": 0.5
@@ -55771,6 +56034,7 @@
         }
       ]
     ],
+    "evolvesFrom": "roggenrola",
     "genderRatio": {
       "female": 0.5,
       "male": 0.5
@@ -55847,6 +56111,7 @@
       "specialAttack": 0,
       "specialDefense": 0
     },
+    "evolvesFrom": "boldore",
     "genderRatio": {
       "female": 0.5,
       "male": 0.5
@@ -56011,6 +56276,7 @@
       "specialAttack": 0,
       "specialDefense": 0
     },
+    "evolvesFrom": "woobat",
     "genderRatio": {
       "female": 0.5,
       "male": 0.5
@@ -56170,6 +56436,7 @@
       "specialAttack": 0,
       "specialDefense": 0
     },
+    "evolvesFrom": "drilbur",
     "genderRatio": {
       "female": 0.5,
       "male": 0.5
@@ -56525,6 +56792,7 @@
         }
       ]
     ],
+    "evolvesFrom": "timburr",
     "genderRatio": {
       "female": 0.25,
       "male": 0.75
@@ -56598,6 +56866,7 @@
       "specialAttack": 0,
       "specialDefense": 0
     },
+    "evolvesFrom": "gurdurr",
     "genderRatio": {
       "female": 0.25,
       "male": 0.75
@@ -56767,6 +57036,7 @@
         }
       ]
     ],
+    "evolvesFrom": "tympole",
     "genderRatio": {
       "female": 0.5,
       "male": 0.5
@@ -56840,6 +57110,7 @@
       "specialAttack": 0,
       "specialDefense": 0
     },
+    "evolvesFrom": "palpitoad",
     "genderRatio": {
       "female": 0.5,
       "male": 0.5
@@ -57153,6 +57424,7 @@
         }
       ]
     ],
+    "evolvesFrom": "sewaddle",
     "genderRatio": {
       "female": 0.5,
       "male": 0.5
@@ -57217,6 +57489,7 @@
       "specialAttack": 0,
       "specialDefense": 0
     },
+    "evolvesFrom": "swadloon",
     "genderRatio": {
       "female": 0.5,
       "male": 0.5
@@ -57385,6 +57658,7 @@
         }
       ]
     ],
+    "evolvesFrom": "venipede",
     "genderRatio": {
       "female": 0.5,
       "male": 0.5
@@ -57459,6 +57733,7 @@
       "specialAttack": 0,
       "specialDefense": 0
     },
+    "evolvesFrom": "whirlipede",
     "genderRatio": {
       "female": 0.5,
       "male": 0.5
@@ -57630,6 +57905,7 @@
       "specialAttack": 0,
       "specialDefense": 0
     },
+    "evolvesFrom": "cottonee",
     "genderRatio": {
       "female": 0.5,
       "male": 0.5
@@ -57802,6 +58078,7 @@
       "specialAttack": 2,
       "specialDefense": 0
     },
+    "evolvesFrom": "petilil",
     "genderRatio": {
       "female": 1
     },
@@ -58144,6 +58421,7 @@
         }
       ]
     ],
+    "evolvesFrom": "sandile",
     "genderRatio": {
       "female": 0.5,
       "male": 0.5
@@ -58220,6 +58498,7 @@
       "specialAttack": 0,
       "specialDefense": 0
     },
+    "evolvesFrom": "krokorok",
     "genderRatio": {
       "female": 0.5,
       "male": 0.5
@@ -58477,6 +58756,7 @@
       "specialAttack": 0,
       "specialDefense": 0
     },
+    "evolvesFrom": "darumaka-galar",
     "genderRatio": {
       "female": 0.5,
       "male": 0.5
@@ -58953,6 +59233,7 @@
       "specialAttack": 0,
       "specialDefense": 0
     },
+    "evolvesFrom": "dwebble",
     "genderRatio": {
       "female": 0.5,
       "male": 0.5
@@ -59122,6 +59403,7 @@
       "specialAttack": 0,
       "specialDefense": 1
     },
+    "evolvesFrom": "scraggy",
     "genderRatio": {
       "female": 0.5,
       "male": 0.5
@@ -59457,6 +59739,7 @@
       "specialAttack": 0,
       "specialDefense": 0
     },
+    "evolvesFrom": "yamask",
     "genderRatio": {
       "female": 0.5,
       "male": 0.5
@@ -59636,6 +59919,7 @@
       "specialAttack": 0,
       "specialDefense": 0
     },
+    "evolvesFrom": "tirtouga",
     "genderRatio": {
       "female": 0.125,
       "male": 0.875
@@ -59810,6 +60094,7 @@
       "specialAttack": 0,
       "specialDefense": 0
     },
+    "evolvesFrom": "archen",
     "genderRatio": {
       "female": 0.125,
       "male": 0.875
@@ -59983,6 +60268,7 @@
       "specialAttack": 0,
       "specialDefense": 0
     },
+    "evolvesFrom": "trubbish",
     "genderRatio": {
       "female": 0.5,
       "male": 0.5
@@ -60152,6 +60438,7 @@
       "specialAttack": 2,
       "specialDefense": 0
     },
+    "evolvesFrom": "zorua",
     "genderRatio": {
       "female": 0.125,
       "male": 0.875
@@ -60315,6 +60602,7 @@
       "specialAttack": 0,
       "specialDefense": 0
     },
+    "evolvesFrom": "minccino",
     "genderRatio": {
       "female": 0.75,
       "male": 0.25
@@ -60488,6 +60776,7 @@
         }
       ]
     ],
+    "evolvesFrom": "gothita",
     "genderRatio": {
       "female": 0.75,
       "male": 0.25
@@ -60561,6 +60850,7 @@
       "specialAttack": 0,
       "specialDefense": 3
     },
+    "evolvesFrom": "gothorita",
     "genderRatio": {
       "female": 0.75,
       "male": 0.25
@@ -60732,6 +61022,7 @@
         }
       ]
     ],
+    "evolvesFrom": "solosis",
     "genderRatio": {
       "female": 0.5,
       "male": 0.5
@@ -60808,6 +61099,7 @@
       "specialAttack": 3,
       "specialDefense": 0
     },
+    "evolvesFrom": "duosion",
     "genderRatio": {
       "female": 0.5,
       "male": 0.5
@@ -60979,6 +61271,7 @@
       "specialAttack": 0,
       "specialDefense": 0
     },
+    "evolvesFrom": "ducklett",
     "genderRatio": {
       "female": 0.5,
       "male": 0.5
@@ -61156,6 +61449,7 @@
         }
       ]
     ],
+    "evolvesFrom": "vanillite",
     "genderRatio": {
       "female": 0.5,
       "male": 0.5
@@ -61231,6 +61525,7 @@
       "specialAttack": 3,
       "specialDefense": 0
     },
+    "evolvesFrom": "vanillish",
     "genderRatio": {
       "female": 0.5,
       "male": 0.5
@@ -61688,6 +61983,7 @@
       "specialAttack": 0,
       "specialDefense": 0
     },
+    "evolvesFrom": "deerling-winter",
     "formName": "Spring Form",
     "genderRatio": {
       "female": 0.5,
@@ -62173,6 +62469,7 @@
       "specialAttack": 0,
       "specialDefense": 0
     },
+    "evolvesFrom": "karrablast",
     "genderRatio": {
       "female": 0.5,
       "male": 0.5
@@ -62340,6 +62637,7 @@
       "specialAttack": 0,
       "specialDefense": 0
     },
+    "evolvesFrom": "foongus",
     "genderRatio": {
       "female": 0.5,
       "male": 0.5
@@ -62504,6 +62802,7 @@
       "specialAttack": 0,
       "specialDefense": 2
     },
+    "evolvesFrom": "frillish",
     "genderRatio": {
       "female": 0.5,
       "male": 0.5
@@ -62759,6 +63058,7 @@
       "specialAttack": 0,
       "specialDefense": 0
     },
+    "evolvesFrom": "joltik",
     "genderRatio": {
       "female": 0.5,
       "male": 0.5
@@ -62921,6 +63221,7 @@
       "specialAttack": 0,
       "specialDefense": 0
     },
+    "evolvesFrom": "ferroseed",
     "genderRatio": {
       "female": 0.5,
       "male": 0.5
@@ -63083,6 +63384,7 @@
         }
       ]
     ],
+    "evolvesFrom": "klink",
     "genderRatio": {
       "genderless": 1
     },
@@ -63154,6 +63456,7 @@
       "specialAttack": 0,
       "specialDefense": 0
     },
+    "evolvesFrom": "klang",
     "genderRatio": {
       "genderless": 1
     },
@@ -63303,6 +63606,7 @@
         }
       ]
     ],
+    "evolvesFrom": "tynamo",
     "genderRatio": {
       "female": 0.5,
       "male": 0.5
@@ -63373,6 +63677,7 @@
       "specialAttack": 0,
       "specialDefense": 0
     },
+    "evolvesFrom": "eelektrik",
     "genderRatio": {
       "female": 0.5,
       "male": 0.5
@@ -63527,6 +63832,7 @@
       "specialAttack": 2,
       "specialDefense": 0
     },
+    "evolvesFrom": "elgyem",
     "genderRatio": {
       "female": 0.5,
       "male": 0.5
@@ -63702,6 +64008,7 @@
         }
       ]
     ],
+    "evolvesFrom": "litwick",
     "genderRatio": {
       "female": 0.5,
       "male": 0.5
@@ -63778,6 +64085,7 @@
       "specialAttack": 3,
       "specialDefense": 0
     },
+    "evolvesFrom": "lampent",
     "genderRatio": {
       "female": 0.5,
       "male": 0.5
@@ -63958,6 +64266,7 @@
         }
       ]
     ],
+    "evolvesFrom": "axew",
     "genderRatio": {
       "female": 0.5,
       "male": 0.5
@@ -64036,6 +64345,7 @@
       "specialAttack": 0,
       "specialDefense": 0
     },
+    "evolvesFrom": "fraxure",
     "genderRatio": {
       "female": 0.5,
       "male": 0.5
@@ -64202,6 +64512,7 @@
       "specialAttack": 0,
       "specialDefense": 0
     },
+    "evolvesFrom": "cubchoo",
     "genderRatio": {
       "female": 0.5,
       "male": 0.5
@@ -64448,6 +64759,7 @@
       "specialAttack": 0,
       "specialDefense": 0
     },
+    "evolvesFrom": "shelmet",
     "genderRatio": {
       "female": 0.5,
       "male": 0.5
@@ -64790,6 +65102,7 @@
       "specialAttack": 0,
       "specialDefense": 0
     },
+    "evolvesFrom": "mienfoo",
     "genderRatio": {
       "female": 0.5,
       "male": 0.5
@@ -65028,6 +65341,7 @@
       "specialAttack": 0,
       "specialDefense": 0
     },
+    "evolvesFrom": "golett",
     "genderRatio": {
       "genderless": 1
     },
@@ -65197,6 +65511,7 @@
       "specialAttack": 0,
       "specialDefense": 0
     },
+    "evolvesFrom": "pawniard",
     "genderRatio": {
       "female": 0.5,
       "male": 0.5
@@ -65436,6 +65751,7 @@
       "specialAttack": 0,
       "specialDefense": 0
     },
+    "evolvesFrom": "rufflet",
     "genderRatio": {
       "male": 1
     },
@@ -65601,6 +65917,7 @@
       "specialAttack": 2,
       "specialDefense": 0
     },
+    "evolvesFrom": "vullaby",
     "genderRatio": {
       "female": 1
     },
@@ -65944,6 +66261,7 @@
         }
       ]
     ],
+    "evolvesFrom": "deino",
     "genderRatio": {
       "female": 0.5,
       "male": 0.5
@@ -66020,6 +66338,7 @@
       "specialAttack": 3,
       "specialDefense": 0
     },
+    "evolvesFrom": "zweilous",
     "genderRatio": {
       "female": 0.5,
       "male": 0.5
@@ -66183,6 +66502,7 @@
       "specialAttack": 3,
       "specialDefense": 0
     },
+    "evolvesFrom": "larvesta",
     "genderRatio": {
       "female": 0.5,
       "male": 0.5
@@ -68035,6 +68355,7 @@
         }
       ]
     ],
+    "evolvesFrom": "chespin",
     "genderRatio": {
       "female": 0.125,
       "male": 0.875
@@ -68105,6 +68426,7 @@
       "specialAttack": 0,
       "specialDefense": 0
     },
+    "evolvesFrom": "quilladin",
     "genderRatio": {
       "female": 0.125,
       "male": 0.875
@@ -68279,6 +68601,7 @@
         }
       ]
     ],
+    "evolvesFrom": "fennekin",
     "genderRatio": {
       "female": 0.125,
       "male": 0.875
@@ -68350,6 +68673,7 @@
       "specialAttack": 3,
       "specialDefense": 0
     },
+    "evolvesFrom": "braixen",
     "genderRatio": {
       "female": 0.125,
       "male": 0.875
@@ -68525,6 +68849,7 @@
         }
       ]
     ],
+    "evolvesFrom": "froakie",
     "genderRatio": {
       "female": 0.125,
       "male": 0.875
@@ -68594,6 +68919,7 @@
       "specialAttack": 0,
       "specialDefense": 0
     },
+    "evolvesFrom": "frogadier",
     "genderRatio": {
       "female": 0.125,
       "male": 0.875
@@ -68840,6 +69166,7 @@
       "specialAttack": 0,
       "specialDefense": 0
     },
+    "evolvesFrom": "bunnelby",
     "genderRatio": {
       "female": 0.5,
       "male": 0.5
@@ -68997,6 +69324,7 @@
       "specialAttack": 0,
       "specialDefense": 0
     },
+    "evolvesFrom": "fletchling",
     "genderRatio": {
       "female": 0.5,
       "male": 0.5
@@ -69226,6 +69554,7 @@
         }
       ]
     ],
+    "evolvesFrom": "scatterbug",
     "genderRatio": {
       "female": 0.5,
       "male": 0.5
@@ -69284,6 +69613,7 @@
       "specialAttack": 0,
       "specialDefense": 0
     },
+    "evolvesFrom": "spewpa",
     "formName": "Meadow Pattern",
     "genderRatio": {
       "female": 0.5,
@@ -70871,6 +71201,7 @@
       "specialAttack": 2,
       "specialDefense": 0
     },
+    "evolvesFrom": "litleo",
     "genderRatio": {
       "female": 0.75,
       "male": 0.25
@@ -71378,6 +71709,7 @@
         }
       ]
     ],
+    "evolvesFrom": "flabebe-white",
     "formName": "Red Flower",
     "genderRatio": {
       "female": 1
@@ -71848,6 +72180,7 @@
       "specialAttack": 0,
       "specialDefense": 3
     },
+    "evolvesFrom": "floette-eternal",
     "formName": "Red Flower",
     "genderRatio": {
       "female": 1
@@ -72272,6 +72605,7 @@
       "specialAttack": 0,
       "specialDefense": 0
     },
+    "evolvesFrom": "skiddo",
     "genderRatio": {
       "female": 0.5,
       "male": 0.5
@@ -72438,6 +72772,7 @@
       "specialAttack": 0,
       "specialDefense": 0
     },
+    "evolvesFrom": "pancham",
     "genderRatio": {
       "female": 0.5,
       "male": 0.5
@@ -73355,6 +73690,7 @@
       "specialAttack": 0,
       "specialDefense": 0
     },
+    "evolvesFrom": "espurr",
     "genderRatio": {
       "female": 0.5,
       "male": 0.5
@@ -73603,6 +73939,7 @@
         }
       ]
     ],
+    "evolvesFrom": "honedge",
     "genderRatio": {
       "female": 0.5,
       "male": 0.5
@@ -73673,6 +74010,7 @@
       "specialAttack": 1,
       "specialDefense": 0
     },
+    "evolvesFrom": "doublade",
     "formName": "Shield Forme",
     "genderRatio": {
       "female": 0.5,
@@ -73907,6 +74245,7 @@
       "specialAttack": 0,
       "specialDefense": 0
     },
+    "evolvesFrom": "spritzee",
     "genderRatio": {
       "female": 0.5,
       "male": 0.5
@@ -74066,6 +74405,7 @@
       "specialAttack": 0,
       "specialDefense": 0
     },
+    "evolvesFrom": "swirlix",
     "genderRatio": {
       "female": 0.5,
       "male": 0.5
@@ -74229,6 +74569,7 @@
       "specialAttack": 0,
       "specialDefense": 0
     },
+    "evolvesFrom": "inkay",
     "genderRatio": {
       "female": 0.5,
       "male": 0.5
@@ -74390,6 +74731,7 @@
       "specialAttack": 0,
       "specialDefense": 0
     },
+    "evolvesFrom": "binacle",
     "genderRatio": {
       "female": 0.5,
       "male": 0.5
@@ -74551,6 +74893,7 @@
       "specialAttack": 0,
       "specialDefense": 2
     },
+    "evolvesFrom": "skrelp",
     "genderRatio": {
       "female": 0.5,
       "male": 0.5
@@ -74706,6 +75049,7 @@
       "specialAttack": 2,
       "specialDefense": 0
     },
+    "evolvesFrom": "clauncher",
     "genderRatio": {
       "female": 0.5,
       "male": 0.5
@@ -74865,6 +75209,7 @@
       "specialAttack": 0,
       "specialDefense": 0
     },
+    "evolvesFrom": "helioptile",
     "genderRatio": {
       "female": 0.5,
       "male": 0.5
@@ -75028,6 +75373,7 @@
       "specialAttack": 0,
       "specialDefense": 0
     },
+    "evolvesFrom": "tyrunt",
     "genderRatio": {
       "female": 0.125,
       "male": 0.875
@@ -75196,6 +75542,7 @@
       "specialAttack": 0,
       "specialDefense": 0
     },
+    "evolvesFrom": "amaura",
     "genderRatio": {
       "female": 0.125,
       "male": 0.875
@@ -75274,6 +75621,7 @@
       "specialAttack": 0,
       "specialDefense": 2
     },
+    "evolvesFrom": "eevee",
     "genderRatio": {
       "female": 0.125,
       "male": 0.875
@@ -75688,6 +76036,7 @@
         }
       ]
     ],
+    "evolvesFrom": "goomy",
     "genderRatio": {
       "female": 0.5,
       "male": 0.5
@@ -75761,6 +76110,7 @@
       "specialAttack": 0,
       "specialDefense": 3
     },
+    "evolvesFrom": "sliggoo",
     "genderRatio": {
       "female": 0.5,
       "male": 0.5
@@ -76006,6 +76356,7 @@
       "specialAttack": 0,
       "specialDefense": 0
     },
+    "evolvesFrom": "phantump",
     "genderRatio": {
       "female": 0.5,
       "male": 0.5
@@ -76462,6 +76813,7 @@
       "specialAttack": 0,
       "specialDefense": 0
     },
+    "evolvesFrom": "pumpkaboo-super",
     "formName": "Small Size",
     "genderRatio": {
       "female": 0.5,
@@ -76890,6 +77242,7 @@
       "specialAttack": 0,
       "specialDefense": 0
     },
+    "evolvesFrom": "bergmite",
     "genderRatio": {
       "female": 0.5,
       "male": 0.5
@@ -77056,6 +77409,7 @@
       "specialAttack": 0,
       "specialDefense": 0
     },
+    "evolvesFrom": "noibat",
     "genderRatio": {
       "female": 0.5,
       "male": 0.5
@@ -77958,6 +78312,7 @@
         }
       ]
     ],
+    "evolvesFrom": "rowlet",
     "genderRatio": {
       "female": 0.125,
       "male": 0.875
@@ -78029,6 +78384,7 @@
       "specialAttack": 0,
       "specialDefense": 0
     },
+    "evolvesFrom": "dartrix",
     "genderRatio": {
       "female": 0.125,
       "male": 0.875
@@ -78199,6 +78555,7 @@
         }
       ]
     ],
+    "evolvesFrom": "litten",
     "genderRatio": {
       "female": 0.125,
       "male": 0.875
@@ -78269,6 +78626,7 @@
       "specialAttack": 0,
       "specialDefense": 0
     },
+    "evolvesFrom": "torracat",
     "genderRatio": {
       "female": 0.125,
       "male": 0.875
@@ -78440,6 +78798,7 @@
         }
       ]
     ],
+    "evolvesFrom": "popplio",
     "genderRatio": {
       "female": 0.125,
       "male": 0.875
@@ -78511,6 +78870,7 @@
       "specialAttack": 0,
       "specialDefense": 0
     },
+    "evolvesFrom": "brionne",
     "genderRatio": {
       "female": 0.125,
       "male": 0.875
@@ -78678,6 +79038,7 @@
         }
       ]
     ],
+    "evolvesFrom": "pikipek",
     "genderRatio": {
       "female": 0.5,
       "male": 0.5
@@ -78751,6 +79112,7 @@
       "specialAttack": 0,
       "specialDefense": 0
     },
+    "evolvesFrom": "trumbeak",
     "genderRatio": {
       "female": 0.5,
       "male": 0.5
@@ -78909,6 +79271,7 @@
       "specialAttack": 0,
       "specialDefense": 0
     },
+    "evolvesFrom": "yungoos",
     "genderRatio": {
       "female": 0.5,
       "male": 0.5
@@ -79068,6 +79431,7 @@
         }
       ]
     ],
+    "evolvesFrom": "grubbin",
     "genderRatio": {
       "female": 0.5,
       "male": 0.5
@@ -79140,6 +79504,7 @@
       "specialAttack": 0,
       "specialDefense": 0
     },
+    "evolvesFrom": "charjabug",
     "genderRatio": {
       "female": 0.5,
       "male": 0.5
@@ -79302,6 +79667,7 @@
       "specialAttack": 0,
       "specialDefense": 0
     },
+    "evolvesFrom": "crabrawler",
     "genderRatio": {
       "female": 0.5,
       "male": 0.5
@@ -79772,6 +80138,7 @@
       "specialAttack": 0,
       "specialDefense": 2
     },
+    "evolvesFrom": "cutiefly",
     "genderRatio": {
       "female": 0.5,
       "male": 0.5
@@ -79932,6 +80299,7 @@
       "specialAttack": 0,
       "specialDefense": 0
     },
+    "evolvesFrom": "rockruff",
     "formName": "Midday Form",
     "genderRatio": {
       "female": 0.5,
@@ -80415,6 +80783,7 @@
       "specialAttack": 0,
       "specialDefense": 0
     },
+    "evolvesFrom": "mareanie",
     "genderRatio": {
       "female": 0.5,
       "male": 0.5
@@ -80576,6 +80945,7 @@
       "specialAttack": 0,
       "specialDefense": 0
     },
+    "evolvesFrom": "mudbray",
     "genderRatio": {
       "female": 0.5,
       "male": 0.5
@@ -80737,6 +81107,7 @@
       "specialAttack": 2,
       "specialDefense": 0
     },
+    "evolvesFrom": "dewpider",
     "genderRatio": {
       "female": 0.5,
       "male": 0.5
@@ -80894,6 +81265,7 @@
       "specialAttack": 0,
       "specialDefense": 0
     },
+    "evolvesFrom": "fomantis",
     "genderRatio": {
       "female": 0.5,
       "male": 0.5
@@ -81057,6 +81429,7 @@
       "specialAttack": 2,
       "specialDefense": 0
     },
+    "evolvesFrom": "morelull",
     "genderRatio": {
       "female": 0.5,
       "male": 0.5
@@ -81219,6 +81592,7 @@
       "specialAttack": 0,
       "specialDefense": 2
     },
+    "evolvesFrom": "salandit",
     "genderRatio": {
       "female": 1
     },
@@ -81389,6 +81763,7 @@
       "specialAttack": 0,
       "specialDefense": 0
     },
+    "evolvesFrom": "stufful",
     "genderRatio": {
       "female": 0.5,
       "male": 0.5
@@ -81554,6 +81929,7 @@
         }
       ]
     ],
+    "evolvesFrom": "bounsweet",
     "genderRatio": {
       "female": 1
     },
@@ -81624,6 +82000,7 @@
       "specialAttack": 0,
       "specialDefense": 0
     },
+    "evolvesFrom": "steenee",
     "genderRatio": {
       "female": 1
     },
@@ -82019,6 +82396,7 @@
       "specialAttack": 0,
       "specialDefense": 0
     },
+    "evolvesFrom": "wimpod",
     "genderRatio": {
       "female": 0.5,
       "male": 0.5
@@ -82183,6 +82561,7 @@
       "specialAttack": 0,
       "specialDefense": 0
     },
+    "evolvesFrom": "sandygast",
     "genderRatio": {
       "female": 0.5,
       "male": 0.5
@@ -82410,6 +82789,7 @@
       "specialAttack": 0,
       "specialDefense": 0
     },
+    "evolvesFrom": "typenull",
     "formName": "Normal Type",
     "genderRatio": {
       "genderless": 1
@@ -85148,6 +85528,7 @@
         }
       ]
     ],
+    "evolvesFrom": "jangmoo",
     "genderRatio": {
       "female": 0.5,
       "male": 0.5
@@ -85223,6 +85604,7 @@
       "specialAttack": 0,
       "specialDefense": 0
     },
+    "evolvesFrom": "hakamoo",
     "genderRatio": {
       "female": 0.5,
       "male": 0.5
@@ -85679,6 +86061,7 @@
         }
       ]
     ],
+    "evolvesFrom": "cosmog",
     "genderRatio": {
       "genderless": 1
     },
@@ -85736,6 +86119,7 @@
       "specialAttack": 0,
       "specialDefense": 0
     },
+    "evolvesFrom": "cosmoem",
     "genderRatio": {
       "genderless": 1
     },
@@ -85809,6 +86193,7 @@
       "specialAttack": 0,
       "specialDefense": 0
     },
+    "evolvesFrom": "cosmoem",
     "genderRatio": {
       "genderless": 1
     },
@@ -86910,6 +87295,7 @@
       "specialAttack": 0,
       "specialDefense": 0
     },
+    "evolvesFrom": "poipole",
     "genderRatio": {
       "genderless": 1
     },
@@ -87253,6 +87639,7 @@
       "specialAttack": 0,
       "specialDefense": 0
     },
+    "evolvesFrom": "meltan",
     "genderRatio": {
       "genderless": 1
     },
@@ -87426,6 +87813,7 @@
         }
       ]
     ],
+    "evolvesFrom": "grookey",
     "genderRatio": {
       "female": 0.125,
       "male": 0.875
@@ -87505,6 +87893,7 @@
       "specialAttack": 0,
       "specialDefense": 3
     },
+    "evolvesFrom": "thwackey",
     "genderRatio": {
       "female": 0.125,
       "male": 0.875
@@ -87677,6 +88066,7 @@
         }
       ]
     ],
+    "evolvesFrom": "scorbunny",
     "genderRatio": {
       "female": 0.125,
       "male": 0.875
@@ -87751,6 +88141,7 @@
       "specialAttack": 0,
       "specialDefense": 0
     },
+    "evolvesFrom": "raboot",
     "genderRatio": {
       "female": 0.125,
       "male": 0.875
@@ -87927,6 +88318,7 @@
         }
       ]
     ],
+    "evolvesFrom": "sobble",
     "genderRatio": {
       "female": 0.125,
       "male": 0.875
@@ -88004,6 +88396,7 @@
       "specialAttack": 0,
       "specialDefense": 0
     },
+    "evolvesFrom": "drizzile",
     "genderRatio": {
       "female": 0.125,
       "male": 0.875
@@ -88167,6 +88560,7 @@
       "specialAttack": 0,
       "specialDefense": 0
     },
+    "evolvesFrom": "skwovet",
     "genderRatio": {
       "female": 0.5,
       "male": 0.5
@@ -88345,6 +88739,7 @@
         }
       ]
     ],
+    "evolvesFrom": "rookidee",
     "genderRatio": {
       "female": 0.5,
       "male": 0.5
@@ -88422,6 +88817,7 @@
       "specialAttack": 0,
       "specialDefense": 0
     },
+    "evolvesFrom": "corvisquire",
     "genderRatio": {
       "female": 0.5,
       "male": 0.5
@@ -88579,6 +88975,7 @@
         }
       ]
     ],
+    "evolvesFrom": "blipbug",
     "genderRatio": {
       "female": 0.5,
       "male": 0.5
@@ -88652,6 +89049,7 @@
       "specialAttack": 0,
       "specialDefense": 3
     },
+    "evolvesFrom": "dottler",
     "genderRatio": {
       "female": 0.5,
       "male": 0.5
@@ -88814,6 +89212,7 @@
       "specialAttack": 2,
       "specialDefense": 0
     },
+    "evolvesFrom": "nickit",
     "genderRatio": {
       "female": 0.5,
       "male": 0.5
@@ -88978,6 +89377,7 @@
       "specialAttack": 2,
       "specialDefense": 0
     },
+    "evolvesFrom": "gossifleur",
     "genderRatio": {
       "female": 0.5,
       "male": 0.5
@@ -89137,6 +89537,7 @@
       "specialAttack": 0,
       "specialDefense": 0
     },
+    "evolvesFrom": "wooloo",
     "genderRatio": {
       "female": 0.5,
       "male": 0.5
@@ -89294,6 +89695,7 @@
       "specialAttack": 0,
       "specialDefense": 0
     },
+    "evolvesFrom": "chewtle",
     "genderRatio": {
       "female": 0.5,
       "male": 0.5
@@ -89456,6 +89858,7 @@
       "specialAttack": 0,
       "specialDefense": 0
     },
+    "evolvesFrom": "yamper",
     "genderRatio": {
       "female": 0.5,
       "male": 0.5
@@ -89621,6 +90024,7 @@
         }
       ]
     ],
+    "evolvesFrom": "rolycoly",
     "genderRatio": {
       "female": 0.5,
       "male": 0.5
@@ -89697,6 +90101,7 @@
       "specialAttack": 0,
       "specialDefense": 0
     },
+    "evolvesFrom": "carkol",
     "genderRatio": {
       "female": 0.5,
       "male": 0.5
@@ -89860,6 +90265,7 @@
       "specialAttack": 0,
       "specialDefense": 0
     },
+    "evolvesFrom": "applin",
     "genderRatio": {
       "female": 0.5,
       "male": 0.5
@@ -89943,6 +90349,7 @@
       "specialAttack": 0,
       "specialDefense": 0
     },
+    "evolvesFrom": "applin",
     "genderRatio": {
       "female": 0.5,
       "male": 0.5
@@ -90113,6 +90520,7 @@
       "specialAttack": 0,
       "specialDefense": 0
     },
+    "evolvesFrom": "silicobra",
     "genderRatio": {
       "female": 0.5,
       "male": 0.5
@@ -90504,6 +90912,7 @@
       "specialAttack": 0,
       "specialDefense": 0
     },
+    "evolvesFrom": "arrokuda",
     "genderRatio": {
       "female": 0.5,
       "male": 0.5
@@ -90655,6 +91064,7 @@
       "specialAttack": 2,
       "specialDefense": 0
     },
+    "evolvesFrom": "toxel",
     "formName": "Amped Form",
     "genderRatio": {
       "female": 0.5,
@@ -90923,6 +91333,7 @@
       "specialAttack": 0,
       "specialDefense": 0
     },
+    "evolvesFrom": "sizzlipede",
     "genderRatio": {
       "female": 0.5,
       "male": 0.5
@@ -91088,6 +91499,7 @@
       "specialAttack": 0,
       "specialDefense": 0
     },
+    "evolvesFrom": "clobbopus",
     "genderRatio": {
       "female": 0.5,
       "male": 0.5
@@ -91315,6 +91727,7 @@
       "specialAttack": 2,
       "specialDefense": 0
     },
+    "evolvesFrom": "sinistea-antique",
     "formName": "Phony Form",
     "genderRatio": {
       "genderless": 1
@@ -91559,6 +91972,7 @@
         }
       ]
     ],
+    "evolvesFrom": "hatenna",
     "genderRatio": {
       "female": 1
     },
@@ -91634,6 +92048,7 @@
       "specialAttack": 3,
       "specialDefense": 0
     },
+    "evolvesFrom": "hattrem",
     "genderRatio": {
       "female": 1
     },
@@ -91796,6 +92211,7 @@
         }
       ]
     ],
+    "evolvesFrom": "impidimp",
     "genderRatio": {
       "male": 1
     },
@@ -91869,6 +92285,7 @@
       "specialAttack": 0,
       "specialDefense": 0
     },
+    "evolvesFrom": "morgrem",
     "genderRatio": {
       "male": 1
     },
@@ -91945,6 +92362,7 @@
       "specialAttack": 0,
       "specialDefense": 0
     },
+    "evolvesFrom": "linoone-galar",
     "genderRatio": {
       "female": 0.5,
       "male": 0.5
@@ -92025,6 +92443,7 @@
       "specialAttack": 0,
       "specialDefense": 0
     },
+    "evolvesFrom": "meowth-galar",
     "genderRatio": {
       "female": 0.5,
       "male": 0.5
@@ -92098,6 +92517,7 @@
       "specialAttack": 2,
       "specialDefense": 0
     },
+    "evolvesFrom": "corsola-galar",
     "genderRatio": {
       "female": 0.75,
       "male": 0.25
@@ -92168,6 +92588,7 @@
       "specialAttack": 0,
       "specialDefense": 0
     },
+    "evolvesFrom": "farfetchd-galar",
     "genderRatio": {
       "female": 0.5,
       "male": 0.5
@@ -92331,6 +92752,7 @@
       "specialAttack": 0,
       "specialDefense": 0
     },
+    "evolvesFrom": "yamask-galar",
     "genderRatio": {
       "female": 0.5,
       "male": 0.5
@@ -92493,6 +92915,7 @@
       "specialAttack": 0,
       "specialDefense": 2
     },
+    "evolvesFrom": "milcery",
     "formName": "Strawberry Vanilla Cream",
     "genderRatio": {
       "female": 1
@@ -97493,6 +97916,7 @@
       "specialAttack": 2,
       "specialDefense": 0
     },
+    "evolvesFrom": "snom",
     "genderRatio": {
       "female": 0.5,
       "male": 0.5
@@ -98222,6 +98646,7 @@
       "specialAttack": 0,
       "specialDefense": 0
     },
+    "evolvesFrom": "cufant",
     "genderRatio": {
       "female": 0.5,
       "male": 0.5
@@ -98749,6 +99174,7 @@
         }
       ]
     ],
+    "evolvesFrom": "dreepy",
     "genderRatio": {
       "genderless": 1
     },
@@ -98834,6 +99260,7 @@
       "specialAttack": 0,
       "specialDefense": 0
     },
+    "evolvesFrom": "drakloak",
     "genderRatio": {
       "genderless": 1
     },
@@ -99336,6 +99763,7 @@
       "specialAttack": 0,
       "specialDefense": 0
     },
+    "evolvesFrom": "kubfu",
     "formName": "Single Strike Style",
     "genderRatio": {
       "female": 0.125,
