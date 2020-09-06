@@ -1,13 +1,14 @@
 import React, { useState } from 'react';
 import mons, { Mon } from './data/mons';
 import { FORM_TYPES, getFormType } from './transformers/formTypes';
-import { Range, mapObject } from '@tipsypastels/shared';
+import { Range, mapObject, enumKeys } from '@tipsypastels/shared';
 import { Set as ISet } from 'immutable';
 import applyImage from './transformers/image';
 import { SHAPES, ShapeName } from './transformers/shapes';
 import LANGUAGES, { LanguageName, LANGUAGE_NAMES } from './transformers/languages';
 import { Casing, CASINGS, CASING_FUNCTIONS } from './transformers/casing';
 import FIELDS, { DEFAULT_FIELD_NAMES, FieldName, FIELD_NAMES } from './transformers/fields';
+import { REGIONAL_DEXES, formatDexName, RegionalDex, inAnyDex } from './data/dexPos';
 import './App.css';
 
 const ALL_GENS = Range(1, 8);
@@ -19,6 +20,7 @@ export default function App() {
   const [langName, setLangName] = useState<LanguageName>('json');
   const [fieldNames, setFieldNames] = useState(ISet(DEFAULT_FIELD_NAMES));
   const [casing, setCasing] = useState<Casing>('camelCase');
+  const [dexes, setDexes] = useState(ISet(REGIONAL_DEXES));
   const [image, setImage] = useState('');
 
   const resultOpts = { 
@@ -28,6 +30,7 @@ export default function App() {
     shapeName,
     fieldNames,
     casing,
+    dexes,
   };
 
   function exportResult() {
@@ -61,6 +64,44 @@ export default function App() {
               Gen {gen}
             </label>
           ))}
+        </div>
+
+        <h1>Regional Dex Filter</h1>
+
+        <div className="content fields-grid">
+          {REGIONAL_DEXES.map(dex => (
+            <label key={dex}>
+              <input
+                type="checkbox"
+                checked={dexes.has(dex)}
+                onChange={e => {
+                  if (e.target.checked) {
+                    setDexes(d => d.add(dex));
+                  } else {
+                    setDexes(d => d.remove(dex));
+                  }
+                }}
+              />
+
+              {formatDexName(dex)}
+            </label>
+          ))}
+        </div>
+
+        <div className="button-row">
+          <button
+            className="text-button"
+            onClick={() => setDexes(ISet(REGIONAL_DEXES))}
+          >
+            All
+          </button>
+
+          <button
+            className="text-button"
+            onClick={() => setDexes(ISet([]))}
+          >
+            None
+          </button>
         </div>
 
         <h1>Forms Filter</h1>
@@ -253,6 +294,7 @@ type FilterOpts = {
   shapeName: ShapeName;
   fieldNames: ISet<FieldName>;
   casing: Casing;
+  dexes: ISet<RegionalDex>;
 }
 
 function filter({ 
@@ -263,6 +305,7 @@ function filter({
   shapeName,
   fieldNames,
   casing,
+  dexes,
 }: FilterOpts) {
   const collection = new SHAPES[shapeName]();
 
@@ -274,6 +317,14 @@ function filter({
     const mon = mons[i];
 
     if (!gens.has(mon.generation)) {
+      continue;
+    }
+
+    if (mon.regionalDexPositions) {
+      if (!inAnyDex(dexes, mon)) {
+        continue;
+      }
+    } else if (!dexes.has('__NONE__')) {
       continue;
     }
 

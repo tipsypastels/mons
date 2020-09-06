@@ -9,6 +9,10 @@ section {
   padding: 1rem;
 }
 
+label {
+  user-select: none;
+}
+
 .Preview {
   background-color: rgba(0, 0, 0, 0.05);
   overflow-x: hidden;

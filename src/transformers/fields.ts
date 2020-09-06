@@ -81,6 +81,10 @@ const FIELDS = {
     displayName: 'Number',
     defaultOn: true,
   },
+  regionalDexPositions: {
+    displayName: 'Regional Positions',
+    defaultOn: false,
+  },
   slug: {
     displayName: 'Slug',
     defaultOn: true,

@@ -1,4 +1,5 @@
 import mons from './mons.json';
+import { RegionalDexPositions } from './dexPos';
 
 export type Mon = {
   abilities: string[];
@@ -24,6 +25,7 @@ export type Mon = {
   kind: string;
   moves: unknown;
   number: number;
+  regionalDexPositions?: RegionalDexPositions;
   slug: string;
   shape: string;
   types: string[];
